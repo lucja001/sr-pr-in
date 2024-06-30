@@ -4,8 +4,8 @@ public class Helper {
     }
 
     public static void main(String[] args) {
-        // Przykład użycia
-        String greeting = greet("World");
-        System.out.println(greeting);
+        // Wywołanie metody greet i wypisanie wyniku na ekran
+        System.out.println(greet("Alice"));
     }
 }
+
