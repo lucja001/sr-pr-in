@@ -1,2 +1,3 @@
-# sr-pr-in
-zaliczenie przedmiotu
+Łucja Miłkowska
+164325
+grupa c2
